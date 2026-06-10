@@ -2,6 +2,7 @@
 
 ## 🖋️공부
 - [바이브코딩](https://github.com/KoreaEva/Books) - 누구나 코딩하는 시대, 1일 10분 바이브 코딩
+- [Python](https://github.com/KoreaEva/Python) - 무료 파이썬 강좌
   
 ## 🔗 자주 방문하는 저장소
 - [프로젝트A](https://github.com/username/projectA) - Spring Boot 백엔드
